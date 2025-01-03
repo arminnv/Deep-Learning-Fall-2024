@@ -9,30 +9,6 @@ This repository contains the coursework materials for the graduate course "Deep 
 - `HW4/`: Time Series, NLP, LSTM, Attention, and LLMs
 - `HW5/`: Deep Generative Models
 - `Project/`: Real-Time Object Recognition
-- 
-• 
- • 
- • Shallow and Deep Neural networks as classifier and function approximator: Single layer 
-perceptron (SLP), multilayer perceptron (MLP), error back propagation (EBP) algorithm, 
-most important theorems.
- • Regularization, Normalization, and Optimization with emphasis on stochastic gradient 
-descent (SGD) and its variations.
- • Convolutional Neural Networks (CNN): History, Foundations, Architecture, Learning.
- • Application of CNN in computer vision: Most important network (AlexNet, GoogleNet, 
-VGGNet, ResNet , and state of art networks)
- Sharif University of Technology, School of Electrical Engineering
- 7
- DEEP LEARNING, E. FATEMIZADEH, FALL 2024
-Syllabus
- • Recurrent Neural Networks: RNN, LSTM, GRU, Transformers, applications 
-in natural language and signal/image processing.
- • Unsupervised Learning: Auto Encoder (AE), Variational Auto Encoder 
-(VAE), Conditional Variational Auto Encoder (CVAE)
- • Adversarial learning: Generative Adversarial Networks (GAN) and 
-Conditional GAN (CGAN), mathematical foundation, architecture, 
-applications, and most important networks (GAN, DCGAN, CycleGAN, 
-WGAN, and state of art networks)
- • Generative Models (Diffusion)
 
 ## Syllabus
 
