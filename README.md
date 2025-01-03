@@ -10,10 +10,8 @@ This repository contains the coursework materials for the graduate course "Deep 
 - `HW5/`: Deep Generative Models
 - `Project/`: Real-Time Object Recognition
 - 
-• Introductions: An Introduction to Machine Learning Concepts, importance, applications, 
-and examples.
- • Rapid Survey (essential mathematics for machine learning: Linear Algebra and Random 
-Variables)
+• 
+ • 
  • Shallow and Deep Neural networks as classifier and function approximator: Single layer 
 perceptron (SLP), multilayer perceptron (MLP), error back propagation (EBP) algorithm, 
 most important theorems.
@@ -38,50 +36,20 @@ WGAN, and state of art networks)
 
 ## Syllabus
 
-1. Introducation to Machine Learning
-
-2. Prerequisites
-   - Image Enhancement
-3. Two Dimensional Signals Processing and Image Restoration
-   - 2D digital signal processing
-   - Pseudo Inverse Filtering
-   - Wiener Filtering
-   - Adaptive Local Wiener Filter
-4. Morphological Image Processing
-   - Erosion and Dilation
-   - Opening and Closing
-5. Feature Extraction
-   - Image statistics
-   - Hu moments
-   - PCA
-6. Wavelet and Multiresolution Processing
-   - Gaussian and Laplacian Pyramids
-   - Wavelet-based Denoising
-7. Image Noise Filtering Point and Block Estimation
-   - Point Estimation Methods
-   -  Non Local Mean (NLM) Filtering
-   -  Guided Image Filtering (GIF)
-   -  BM3D
-8. Image Noise Filtering
-    Total Variation Definition
-    Calculus of variation (Variational Calculus)
-   - Constrained Optimization
-   - Total Variation Denoising (ROF Approach)
-   - Numerical Implementation
-   - Bayesian Interpretation
-9. Anisotropic Diffusion Filter
-   - Homogeneous Linear Diffusion Filtering
-   - Inhomogeneous Linear Diffusion Filtering
-   - Inhomogeneous Nonlinear Diffusion Filtering
-   - Diffusion Anisotropic Filtering
-10. Sparse Denoising
-   - Norm Definition
-   - Sparse Approximation
-   - Dictionary
-   - Sparse Image Denoising
-   - Low Rank Representation and Denoising
-   - Deep Denoising
-11. Medical Image Segmentation Introduction and Pixel Classification
-   - Maximum Likelihood Estimation (MLE)
+1. Introductions
+   - An Introduction to Machine Learning Concepts, importance, applications, and examples.
+2. Rapid Survey
+   - Essential Mathematics for Machine Learning, Linear Algebra and Random Variables
+3. Shallow and Deep Neural networks as classifier and function approximator
+   - Single layer perceptron (SLP), multilayer perceptron (MLP), error back propagation (EBP) algorithm, most important theorems.
+4. Regularization, Normalization, and Optimization
+   - With emphasis on stochastic gradient descent (SGD) and its variations
+5. Recurrent Neural Networks
+   - RNN, LSTM, GRU, Transformers, applications in natural language and signal/image processing.
+6. Unsupervised Learning
+   - Auto Encoder (AE), Variational Auto Encoder (VAE), Conditional Variational Auto Encoder (CVAE)
+7. Adversarial learning
+   - Generative Adversarial Networks (GAN) and Conditional GAN (CGAN), mathematical foundation, architecture, applications, and most important networks (GAN, DCGAN, CycleGAN, WGAN, and state of art networks)
+8. Generative Models (Diffusion)
     
 For more details, please refer to the project report in the `Project/` directory.
