@@ -5,7 +5,7 @@ This repository contains the coursework materials for the graduate course "Deep 
 
 - `HW1/`: Introducation to Machine Learning
 - `HW2/`: Optimization (incomplete due to TOEFL exam)
-- `HW3/`: CNN Architectures and Transfer Learning
+- `HW3/`: CNN Architectures, Computer Vision, and Transfer Learning
 - `HW4/`: Time Series, NLP, LSTM, Attention, and LLMs
 - `HW5/`: Deep Generative Models
 - `Project/`: Real-Time Object Recognition
