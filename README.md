@@ -32,4 +32,3 @@ This repository contains the coursework materials for the graduate course "Deep 
    - Generative Adversarial Networks (GAN) and Conditional GAN (CGAN), mathematical foundation, architecture, applications, and most important networks (GAN, DCGAN, CycleGAN, WGAN, and state of art networks)
 10. Generative Models (Diffusion)
     
-For more details, please refer to the project report in the `Project/` directory.
