@@ -22,7 +22,7 @@ This repository contains the coursework materials for the graduate course "Deep 
    - With emphasis on stochastic gradient descent (SGD) and its variations
 5. Convolutional Neural Networks (CNN)
    - History, Foundations, Architecture, Learning
-6. Application of CNN in computer vision:
+6. Application of CNN in computer vision
    - Most important networks (AlexNet, GoogleNet, VGGNet, ResNet , and state of art networks)
 7. Recurrent Neural Networks
    - RNN, LSTM, GRU, Transformers, applications in natural language and signal/image processing.
