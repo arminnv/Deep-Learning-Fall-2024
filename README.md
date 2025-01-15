@@ -20,12 +20,16 @@ This repository contains the coursework materials for the graduate course "Deep 
    - Single layer perceptron (SLP), multilayer perceptron (MLP), error back propagation (EBP) algorithm, most important theorems.
 4. Regularization, Normalization, and Optimization
    - With emphasis on stochastic gradient descent (SGD) and its variations
-5. Recurrent Neural Networks
+5. Convolutional Neural Networks (CNN)
+   - History, Foundations, Architecture, Learning
+6. Application of CNN in computer vision:
+   - Most important networks (AlexNet, GoogleNet, VGGNet, ResNet , and state of art networks)
+7. Recurrent Neural Networks
    - RNN, LSTM, GRU, Transformers, applications in natural language and signal/image processing.
-6. Unsupervised Learning
+8. Unsupervised Learning
    - Auto Encoder (AE), Variational Auto Encoder (VAE), Conditional Variational Auto Encoder (CVAE)
-7. Adversarial learning
+9. Adversarial learning
    - Generative Adversarial Networks (GAN) and Conditional GAN (CGAN), mathematical foundation, architecture, applications, and most important networks (GAN, DCGAN, CycleGAN, WGAN, and state of art networks)
-8. Generative Models (Diffusion)
+10. Generative Models (Diffusion)
     
 For more details, please refer to the project report in the `Project/` directory.
